@@ -1,4 +1,5 @@
 # palindrome-checker
 
 • Freecodecamp
-• JavaScript algorithm and data structure 
+
+• JavaScript algorithms and data structures 
